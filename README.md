@@ -8,4 +8,4 @@ The [Advent of Code][AoC] is an [Advent Calendar](https://en.wikipedia.org/wiki/
 My solutions are free to use, but I'm sure they are nowhere near optimal or clean. I will make an attempt to clean them over time, so check back in a little while to see some cleaner solutions.
 
 
-[AoC] = https://adventofcode.com/2018
+[AoC]: https://adventofcode.com/2018
